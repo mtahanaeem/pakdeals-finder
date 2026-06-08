@@ -1,0 +1,16 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+scikit-learn
+joblib
+transformers
+torch
+sentence-transformers
+faiss-cpu
+langgraph
+groq
+numpy
+python-dotenv
+playwright
+algoliasearch

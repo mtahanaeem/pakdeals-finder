@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.log
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+backend/test_*.py
+backend/*.html
+
+# Generated data (recreated on first run)
+backend/data/classifier_model.pkl
+backend/data/faiss_index.bin
+backend/data/faiss_id_map.json
